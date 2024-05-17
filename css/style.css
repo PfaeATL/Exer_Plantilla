@@ -59,9 +59,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #666666;
+  color: #3426af;
   text-align: left;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Handlee", cursive;
   font-weight: bold;
   line-height: 1.2;
-  color: #00394f;
+  color: #0e106e;
 }
 
 h1, .h1 {
