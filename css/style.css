@@ -59,7 +59,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #3426af;
+  color: #3426af; /*Cambio color general letra de la página*/
   text-align: left;
   background-color: #ffffff;
 }
@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Handlee", cursive;
   font-weight: bold;
   line-height: 1.2;
-  color: #0e106e;
+  color: #0e106e; /*modifiqué este color para los niveles de título*/
 }
 
 h1, .h1 {
@@ -637,7 +637,7 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
-  justify-content: center; /*Esto lo modifique yo :D*/
+  justify-content: center; /*Modificación para los contenidos se centren en la página*/
 }
 
 .no-gutters {
